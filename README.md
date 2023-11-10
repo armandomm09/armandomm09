@@ -44,6 +44,11 @@ Here are some ideas to get you started:
 <img src="https://www.image-line.com/wp-content/themes/intracto/build/images/fl-fruit-logo.png" height="40" alt="fl studio logo" />
 <img src="https://i.redd.it/3ru0ufljlc021.png" height="55" alt="ablethon logo" align="top"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Geogebra.svg/1200px-Geogebra.svg.png" height="40" alt="geogebra logo" />
+<img src="https://preview.redd.it/8pubh285syd61.png?width=4096&format=png&auto=webp&s=6881b6aab2ba56d4c7e45b15201e181489330362" height="40" alt="desmos logo" />
+<img src="https://cdn.shopify.com/app-store/listing_images/fae5a14788bf7f2d8a5cd7c114bcbe6b/icon/CMLDlNaItfgCEAE=.png" height="40" alt="spotify for users" />
+<img src="https://distrokid.com/images/distrokid_gremlin_small.png" height="40" alt="distrokid" />
 
 
 
