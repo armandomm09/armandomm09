@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love making music!!
 
+
+
+<h4 align="left">ME:</h4>
+
+<a href="https://open.spotify.com/artist/0MeoRldwVegwqxGbW57v55?si=_oJV-R1SSjmQrw9VS9ufUQ"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ASpotify_App_Logo.svg&psig=AOvVaw2fSjqXzAsEyrvW2AMcQSpP&ust=1699714031606000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCOiU_6nWuYIDFQAAAAAdAAAAABAE"></a>
