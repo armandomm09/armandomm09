@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 <a href="https://open.spotify.com/artist/0MeoRldwVegwqxGbW57v55?si=raoOByCbSo28vlMHtnWvXQ" target="blank"><img align="center" src="https://github.com/armandomm09/armandomm09/assets/97997290/699b679b-a12a-450f-88ab-352c9523a836" height="40" width="auto" /></a>
 
-<a href="https://open.spotify.com/artist/0MeoRldwVegwqxGbW57v55?si=raoOByCbSo28vlMHtnWvXQ" target="blank"><img align="center" src="https://github.com/armandomm09/armandomm09/assets/97997290/699b679b-a12a-450f-88ab-352c9523a836" height="30" width="40" /></a>
+<a href="https://open.spotify.com/artist/0MeoRldwVegwqxGbW57v55?si=raoOByCbSo28vlMHtnWvXQ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" height="40" width="auto" /></a>
