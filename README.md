@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 <h4 align="left">ME:</h4>
 
-<img href="https://github.com/armandomm09/armandomm09/assets/97997290/699b679b-a12a-450f-88ab-352c9523a836">
+<img src="https://github.com/armandomm09/armandomm09/assets/97997290/699b679b-a12a-450f-88ab-352c9523a836">
 
