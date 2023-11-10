@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Logic_Pro_icon.png" height="45" alt="logic pro logo" />
 <img src="https://www.image-line.com/wp-content/themes/intracto/build/images/fl-fruit-logo.png" height="40" alt="fl studio logo" />
 <img src="https://i.redd.it/3ru0ufljlc021.png" height="55" alt="ablethon logo" align="top"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+
 
 
 
