@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 
 <h4 align="left">ME:</h4>
-<class display="inline-block">
+<div display="inline-block">
 <p align="left">
 <a href="https://open.spotify.com/artist/0MeoRldwVegwqxGbW57v55?si=raoOByCbSo28vlMHtnWvXQ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" height="40" width="auto" /></a>
 <a href="https://www.instagram.com/armando_mm09/" target="blank"><img src="https://www.unipile.com/wp-content/uploads/2022/09/logo_instagram.png" height="40" width="auto"></a>
 </p>
-</class>
+</div>
