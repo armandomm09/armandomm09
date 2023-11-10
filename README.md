@@ -26,3 +26,7 @@ Here are some ideas to get you started:
 <a href="https://x.com/armando_mac09?s=21&t=A9pjBMx9PGJFV8YaaD6oQg" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height="57" width="auto" align="center"></a>
 <a href="https://discord.com/users/427683569465425931" target="blank"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" height="40" width="auto"/></a>
 
+
+<h4 align="left">Tools:</h4>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
