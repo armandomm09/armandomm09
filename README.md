@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 <a href="https://open.spotify.com/artist/0MeoRldwVegwqxGbW57v55?si=raoOByCbSo28vlMHtnWvXQ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" height="40" width="auto" /></a>
 <a href="https://www.instagram.com/armando_mm09/" target="blank"><img src="https://www.unipile.com/wp-content/uploads/2022/09/logo_instagram.png" height="40" width="auto" align="center"></a>
 
-<a href="https://x.com/armando_mac09?s=21&t=A9pjBMx9PGJFV8YaaD6oQg" target="blank"><img align="center" src="https://x.com/armando_mac09?s=21&t=A9pjBMx9PGJFV8YaaD6oQg" height="40" width="auto" align="center"></a>
+<a href="https://bayrivercolleges.ca/files/logo-x-twitter.svg" target="blank"><img align="center" src="https://x.com/armando_mac09?s=21&t=A9pjBMx9PGJFV8YaaD6oQg" height="40" width="auto" align="center"></a>
 
