@@ -1,4 +1,4 @@
-º
+
 ![1a1837d95903ac5f6f4cf07d9d1693b7](https://github.com/armandomm09/armandomm09/assets/97997290/37f67631-0ff8-41c9-9d7b-8a01a9b9241f)
 
 <div align="center" color="blue">
@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 <h4 align="left">ME:</h4>
 <a href="https://open.spotify.com/artist/0MeoRldwVegwqxGbW57v55?si=raoOByCbSo28vlMHtnWvXQ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" height="40" width="auto" /></a>
 <a href="https://www.instagram.com/armando_mm09/" target="blank"><img src="https://www.unipile.com/wp-content/uploads/2022/09/logo_instagram.png" height="40" width="auto" align="center"></a>
+
+<a href="https://x.com/armando_mac09?s=21&t=A9pjBMx9PGJFV8YaaD6oQg" target="blank"><img align="center" src="https://x.com/armando_mac09?s=21&t=A9pjBMx9PGJFV8YaaD6oQg" height="40" width="auto" align="center"></a>
 
