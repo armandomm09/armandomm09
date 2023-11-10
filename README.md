@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 
 <h4 align="left">ME:</h4>
 
-<a href="https://open.spotify.com/artist/0MeoRldwVegwqxGbW57v55?si=_oJV-R1SSjmQrw9VS9ufUQ" target="blank"><img src="![Spotify_logo_without_text svg](https://github.com/armandomm09/armandomm09/assets/97997290/699b679b-a12a-450f-88ab-352c9523a836)"></a>
+<a href="https://open.spotify.com/artist/0MeoRldwVegwqxGbW57v55?si=_oJV-R1SSjmQrw9VS9ufUQ" target="blank"> ![Spotify_logo_without_text svg](https://github.com/armandomm09/armandomm09/assets/97997290/699b679b-a12a-450f-88ab-352c9523a836)
+</a>
