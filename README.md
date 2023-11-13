@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="40" alt="excel"/>
 <img src="https://help.apple.com/assets/649B288FBEEB899ECF080839/649B289338E6B171A100ADC8/en_US/97f5f4dfe6df84d78caacff68ec63538.png" height="40" />
 <img src="https://seeklogo.com/images/A/autocad-logo-C9817CB828-seeklogo.com.png"  height="40" alt="autocad logo" />
-
+<img src="https://www.seiler-ds.com/wp-content/uploads/sites/11/2023/07/autodesk_revit-logo-1.png" height="40" alt="revit logo" />
 </div>
 
 ## 🔥 My stats :
