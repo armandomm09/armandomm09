@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <img src="https://preview.redd.it/8pubh285syd61.png?width=4096&format=png&auto=webp&s=6881b6aab2ba56d4c7e45b15201e181489330362" height="40" alt="desmos logo" />
 <img src="https://distrokid.com/images/distrokid_gremlin_small.png" height="40" alt="distrokid" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="40" alt="excel"/>
-
+<img src="https://help.apple.com/assets/649B288FBEEB899ECF080839/649B289338E6B171A100ADC8/en_US/97f5f4dfe6df84d78caacff68ec63538.png" height="40" />
 
 
 
