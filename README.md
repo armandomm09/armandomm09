@@ -30,31 +30,31 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="5" alt="apple logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
-<img src="https://images.squarespace-cdn.com/content/v1/5d4b06a67cd3580001ded283/1565198481601-L50L62A0MO6KS6XHSY3P/WPILibDev.png" height="40" alt="wpilb logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" height="40" alt="matlab logo" />
+<img src="https://images.squarespace-cdn.com/content/v1/5d4b06a67cd3580001ded283/1565198481601-L50L62A0MO6KS6XHSY3P/WPILibDev.png" height="45" alt="wpilb logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="arduino logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" height="45" alt="matlab logo" />
 <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Logic_Pro_icon.png" height="45" alt="logic pro logo" />
-<img src="https://www.image-line.com/wp-content/themes/intracto/build/images/fl-fruit-logo.png" height="40" alt="fl studio logo" />
-<img src="https://i.redd.it/3ru0ufljlc021.png" height="55" alt="ablethon logo" align="top"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Geogebra.svg/1200px-Geogebra.svg.png" height="40" alt="geogebra logo" />
-<img src="https://preview.redd.it/8pubh285syd61.png?width=4096&format=png&auto=webp&s=6881b6aab2ba56d4c7e45b15201e181489330362" height="40" alt="desmos logo" />
-<img src="https://distrokid.com/images/distrokid_gremlin_small.png" height="40" alt="distrokid" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="40" alt="excel"/>
+<img src="https://www.image-line.com/wp-content/themes/intracto/build/images/fl-fruit-logo.png" height="45" alt="fl studio logo" />
+<img src="https://i.redd.it/3ru0ufljlc021.png" height="60" alt="ablethon logo" align="top"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="bash logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Geogebra.svg/1200px-Geogebra.svg.png" height="45" alt="geogebra logo" />
+<img src="https://preview.redd.it/8pubh285syd61.png?width=4096&format=png&auto=webp&s=6881b6aab2ba56d4c7e45b15201e181489330362" height="45" alt="desmos logo" />
+<img src="https://distrokid.com/images/distrokid_gremlin_small.png" height="45" alt="distrokid" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="45" alt="excel"/>
 <img src="https://help.apple.com/assets/649B288FBEEB899ECF080839/649B289338E6B171A100ADC8/en_US/97f5f4dfe6df84d78caacff68ec63538.png" height="40" />
-<img src="https://seeklogo.com/images/A/autocad-logo-C9817CB828-seeklogo.com.png"  height="40" alt="autocad logo" />
-<img src="https://www.seiler-ds.com/wp-content/uploads/sites/11/2023/07/autodesk_revit-logo-1.png" height="40" alt="revit logo" />
-<img src="https://www.xilinx.com/content/xilinx/en/products/design-tools/embedded-software/ubuntu/_jcr_content/root/parsysFullWidth/xilinxflexibleslab/xilinxflexibleslab-parsys/xilinxcolumns_149128/childParsys-2/xilinximage.img.png/1629757312962.png" height="40" width="auto" alt="ubuntu" />
-<img src="https://cdn.freebiesupply.com/logos/large/2x/swift-15-logo-svg-vector.svg" height="40" width="auto" alt="swift" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-<img src="https://cdn.worldvectorlogo.com/logos/clion.svg" height="40" />
-<img src="https://cdn.freebiesupply.com/logos/large/2x/pycharm-logo-svg-vector.svg" height="40" />
+<img src="https://seeklogo.com/images/A/autocad-logo-C9817CB828-seeklogo.com.png"  height="45" alt="autocad logo" />
+<img src="https://www.seiler-ds.com/wp-content/uploads/sites/11/2023/07/autodesk_revit-logo-1.png" height="45" alt="revit logo" />
+<img src="https://www.xilinx.com/content/xilinx/en/products/design-tools/embedded-software/ubuntu/_jcr_content/root/parsysFullWidth/xilinxflexibleslab/xilinxflexibleslab-parsys/xilinxcolumns_149128/childParsys-2/xilinximage.img.png/1629757312962.png" height="45" width="auto" alt="ubuntu" />
+<img src="https://cdn.freebiesupply.com/logos/large/2x/swift-15-logo-svg-vector.svg" height="45" width="auto" alt="swift" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="intellij logo"  />
+<img src="https://cdn.worldvectorlogo.com/logos/clion.svg" height="45" />
+<img src="https://cdn.freebiesupply.com/logos/large/2x/pycharm-logo-svg-vector.svg" height="45" />
 
 </div>
 
