@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 </div>
 
 ## 🔥 My stats :
-<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
