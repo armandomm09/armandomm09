@@ -52,6 +52,10 @@ Here are some ideas to get you started:
 <img src="https://www.seiler-ds.com/wp-content/uploads/sites/11/2023/07/autodesk_revit-logo-1.png" height="40" alt="revit logo" />
 <img src="https://www.xilinx.com/content/xilinx/en/products/design-tools/embedded-software/ubuntu/_jcr_content/root/parsysFullWidth/xilinxflexibleslab/xilinxflexibleslab-parsys/xilinxcolumns_149128/childParsys-2/xilinximage.img.png/1629757312962.png" height="40" width="auto" alt="ubuntu" />
 <img src="https://cdn.freebiesupply.com/logos/large/2x/swift-15-logo-svg-vector.svg" height="40" width="auto" alt="swift" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+<img src="https://cdn.worldvectorlogo.com/logos/clion.svg" height="40" />
+<img src="https://cdn.freebiesupply.com/logos/large/2x/pycharm-logo-svg-vector.svg" height="40" />
+
 </div>
 
 ## 🔥 My stats :
