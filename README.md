@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="intellij logo"  />
 <img src="https://cdn.worldvectorlogo.com/logos/clion.svg" height="45" />
 <img src="https://cdn.freebiesupply.com/logos/large/2x/pycharm-logo-svg-vector.svg" height="45" />
+<img src="https://seeklogo.com/images/N/npm-logo-01B8642EDD-seeklogo.com.png" height="45" />
 
 </div>
 
