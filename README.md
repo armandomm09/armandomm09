@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 ## 🔥 My stats :
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=armandomm09&theme=blue-green&show_icons=true&hide_border=true&count_private=true" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armandomm09&theme=blue-green&hide_border=true" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armandomm09&theme=blue-green&hide_border=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=armandomm09&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="readmeStats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armandomm09&theme=blueberry&hide_border=true" alt="streaks" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=armandomm09&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="languages" height="200" />
 </div>
