@@ -56,10 +56,10 @@ Here are some ideas to get you started:
 <img src="https://www.seiler-ds.com/wp-content/uploads/sites/11/2023/07/autodesk_revit-logo-1.png" height="45" alt="revit logo" />
 <img src="https://www.xilinx.com/content/xilinx/en/products/design-tools/embedded-software/ubuntu/_jcr_content/root/parsysFullWidth/xilinxflexibleslab/xilinxflexibleslab-parsys/xilinxcolumns_149128/childParsys-2/xilinximage.img.png/1629757312962.png" height="45" width="auto" alt="ubuntu" />
 <img src="https://cdn.freebiesupply.com/logos/large/2x/swift-15-logo-svg-vector.svg" height="45" width="auto" alt="swift" />
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png)" height="45" alt="intellij logo"  />
-<img src="[https://cdn.worldvectorlogo.com/logos/clion.svg](https://static-00.iconduck.com/assets.00/clion-icon-512x512-tvyolucv.png)" height="45" />
-<img src="https://cdn.freebiesupply.com/logos/large/2x/pycharm-logo-svg-vector.svg" height="45" />
 <img src="https://seeklogo.com/images/N/npm-logo-01B8642EDD-seeklogo.com.png" height="45" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" height="45" alt="pycharm logo" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" height="45" alt="intellij logo" />
+<img src="https://static-00.iconduck.com/assets.00/clion-icon-512x512-tvyolucv.png" height="45" alt="clion logo" />
 
 </div>
 
