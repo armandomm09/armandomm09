@@ -2,7 +2,7 @@
 ![1a1837d95903ac5f6f4cf07d9d1693b7](https://github.com/armandomm09/armandomm09/assets/97997290/37f67631-0ff8-41c9-9d7b-8a01a9b9241f)
 
 <div align="center" color="blue">
-  <h1 style="color: teal">Armando Mac Beath</h1>
+  <h1>Armando Mac Beath</h1>
 </div>
 
 
