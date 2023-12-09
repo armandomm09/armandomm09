@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <h4 align="left">Tools:</h4>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="45" alt="apple logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="45" alt="logo apple"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
 <img src="https://images.squarespace-cdn.com/content/v1/5d4b06a67cd3580001ded283/1565198481601-L50L62A0MO6KS6XHSY3P/WPILibDev.png" height="45" alt="wpilb logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="arduino logo"  />
