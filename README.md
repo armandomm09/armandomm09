@@ -5,7 +5,7 @@
   <h1>Pablo Armando Mac Beath Milián</h1>
 </div>
 
-#Hola
+
 
 I am a 18 years old junior student on Tec de Monterrey Puebla, studying B.S. in Robotics and Digital Systems Engineer (IRS), dreaming of changing the world through technology. I'm really passionate about FRC and I love working and helping my team, Imperator 5887 on programming and electrical issues. I'm always gonna keep learning everything about tech and I hope I can make this dream come true.  
 Here are some ideas to get you started:
