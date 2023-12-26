@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 👫 I’m looking to collaborate on a 2024 FRC Scouting app
 - 🤔 I’m looking for help with Dart and AI
 - 💬 Ask me about my team Imperator 5887!!
-- ⚡ Fun fact: I love making music!!!
+- ⚡ Fun fact: I love making music!!
 - 💻 I love OOP
 
 
