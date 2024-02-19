@@ -19,7 +19,7 @@ I am a 18 years old student on Tec de Monterrey Puebla, studying B.S. in Robotic
 
 
 
-<h4 align="left">ME:</h4>
+<h4 align="left">ME</h4>
 
 <a href="https://www.instagram.com/armando_mm09/" target="blank"><img src="https://www.unipile.com/wp-content/uploads/2022/09/logo_instagram.png" height="40" width="auto" align="center"></a>
 <a href="https://x.com/armando_mac09?s=21&t=A9pjBMx9PGJFV8YaaD6oQg" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height="57" width="auto" align="center"></a>
