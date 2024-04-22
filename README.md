@@ -64,7 +64,7 @@ I am an 18 years old student on Tec de Monterrey Puebla, studying B.S. in Roboti
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" height="45" alt="pycharm logo" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" height="45" alt="intellij logo" />
 <img src="https://static-00.iconduck.com/assets.00/clion-icon-512x512-tvyolucv.png" height="45" alt="clion logo" />
-<img src="" height="45" alt="clion logo" />
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-3628772-3030134.png" height="45" alt="clion logo" />
 
 
 
