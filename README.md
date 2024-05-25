@@ -25,7 +25,7 @@ I am an 18 years old student on Tec de Monterrey Puebla, studying B.S. in Roboti
 <a href="https://x.com/armando_mac09?s=21&t=A9pjBMx9PGJFV8YaaD6oQg" target="blank"><img align="center" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height="57" width="auto" align="center"></a>
 <a href="https://discord.com/users/427683569465425931" target="blank"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" height="40" width="auto"/></a>
 
-<h4 align="left">Hear my music:</h4>
+<h4 align="left">Hear my own music:</h4>
 
 <a href="https://open.spotify.com/artist/0MeoRldwVegwqxGbW57v55?si=raoOByCbSo28vlMHtnWvXQ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" height="40" width="auto" /></a>
 
