@@ -7,7 +7,7 @@
 
 
 
-I am an 18 years old student on Tec de Monterrey Puebla, studying B.S. in Robotics and Digital Systems Engineer (IRS), dreaming of changing the world through technology. I'm really  passionate about FRC and I love working, helping and teaching my team Imperator 5887 on programming  and electrical issues. I'm always gonna keep learning everything about tech and I hope I can make this dream come truee.
+I am an 19 years old student on Tec de Monterrey Puebla, studying B.S. in Robotics and Digital Systems Engineer (IRS), dreaming of changing the world through technology. I'm really  passionate about FRC and I love working, helping and teaching my team Imperator 5887 on programming  and electrical issues. I'm always gonna keep learning everything about tech and I hope I can make this dream come truee.
 
 
 - 🌱 I’m currently learning Full Stack Development
