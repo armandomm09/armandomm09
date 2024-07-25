@@ -12,7 +12,7 @@ Hola! Soy un estudiante de 19 años en el Tec de Monterrey Puebla, estudiando In
 
 - 🌱 Actualmente estoy aprendiendo Full Stack Development
 - 👫 Busco colaborar en una app de scouting para FRC 2024
-- 🤔 Busco ayuda con Dart y AI
+- 🤔 Busco ayuda con React Native y AI
 - 💬 Pregúntame sobre mi equipo Imperator 5887!!
 - ⚡ Dato curioso: ¡Me encanta hacer música!
 - 💻 Amo la programación orientada a objetos
