@@ -57,22 +57,15 @@ Hola! Soy un estudiante de 19 años en el Tec de Monterrey Puebla, estudiando In
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="45" alt="dart logo"/>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="45" alt="react native"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45" alt="flutter logo"/>
-<img src="https://www.image-line.com/wp-content/themes/intracto/build/images/fl-fruit-logo.png" height="45" alt="flstudio logo"/>
-<img src="https://i.redd.it/3ru0ufljlc021.png" height="45" alt="ableton logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="bash logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"/>
 <img src="https://static-00.iconduck.com/assets.00/clion-icon-512x512-tvyolucv.png" height="45" alt="clion logo"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Geogebra.svg/1200px-Geogebra.svg.png" height="45" alt="geogebra logo"/>
-<img src="https://preview.redd.it/8pubh285syd61.png?width=4096&format=png&auto=webp&s=6881b6aab2ba56d4c7e45b15201e181489330362" height="45" alt="desmos logo"/>
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_167923.png" height="45" alt="tailwindcss"/>
-<img src="https://distrokid.com/images/distrokid_gremlin_small.png" height="45" alt="distrokid logo"/>
 <img src="https://help.apple.com/assets/649B288FBEEB899ECF080839/649B289338E6B171A100ADC8/en_US/97f5f4dfe6df84d78caacff68ec63538.png" height="45" alt="keynote logo"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/648px-Tux.svg.png" height="45" alt="linux"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-3628772-3030134.png" height="45" alt="firebase logo"/>
 <img src="https://appwrite.io/assets/logomark/logo.png" height="45" alt="appwrite"/>
-<img src="https://seeklogo.com/images/A/autocad-logo-C9817CB828-seeklogo.com.png" height="45" alt="autocad logo"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png" height="45" alt="type script"/>
-<img src="https://www.seiler-ds.com/wp-content/uploads/sites/11/2023/07/autodesk_revit-logo-1.png" height="45" alt="revit logo"/>
 <img src="https://www.xilinx.com/content/xilinx/en/products/design-tools/embedded-software/ubuntu/_jcr_content/root/parsysFullWidth/xilinxflexibleslab/xilinxflexibleslab-parsys/xilinxcolumns_149128/childParsys-2/xilinximage.img.png/1629757312962.png" height="45" alt="ubuntu logo"/>
 <img src="https://reactnativewind.com/img/logo.svg" height="45" alt="nativewindcss"/>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/swift-15-logo-svg-vector.svg" height="45" alt="swift logo"/>
