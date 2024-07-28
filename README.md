@@ -67,6 +67,7 @@ Hola! Soy un estudiante de 19 años en el Tec de Monterrey Puebla, estudiando In
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_167923.png" height="45" alt="tailwindcss"/>
 <img src="https://distrokid.com/images/distrokid_gremlin_small.png" height="45" alt="distrokid logo"/>
 <img src="https://help.apple.com/assets/649B288FBEEB899ECF080839/649B289338E6B171A100ADC8/en_US/97f5f4dfe6df84d78caacff68ec63538.png" height="45" alt="keynote logo"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/648px-Tux.svg.png" height="45" alt="linux"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-firebase-3628772-3030134.png" height="45" alt="firebase logo"/>
 <img src="https://appwrite.io/assets/logomark/logo.png" height="45" alt="appwrite"/>
 <img src="https://seeklogo.com/images/A/autocad-logo-C9817CB828-seeklogo.com.png" height="45" alt="autocad logo"/>
