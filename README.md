@@ -39,7 +39,7 @@ Hola! Soy un estudiante de 19 años en el Tec de Monterrey Puebla, estudiando In
 
 ---
 
-### Herramientas que uso
+### Herramientas
 
 <div align="center">
 
