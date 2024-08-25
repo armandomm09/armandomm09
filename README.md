@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Pablo Armando Mac Beath Milián</h1>
-  <p><em>Estudiante de Ingeniería en Robótica y Sistemas Digitales en el Tec de Monterrey Puebla</em></p>
+  <p><em>Estudiante de Ingeniería en Robótica y Sistemas Digitales en Tec de Monterrey Puebla</em></p>
 </div>
 
 ---
