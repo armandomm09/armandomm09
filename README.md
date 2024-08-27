@@ -9,14 +9,16 @@
 
 ### Yoo...
 
-Hola! Soy un estudiante de 19 años en el Tec de Monterrey Puebla, estudiando Ingeniería en Robótica y Sistemas Digitales (IRS), con el sueño de cambiar el mundo a través de la tecnología. Soy un apasionado de FRC y disfruto trabajando, ayudando y enseñando a mi equipo Imperator 5887 en temas de programación y electricidad. ¡Siempre estoy aprendiendo sobre tecnología y espero poder hacer realidad este sueño!
+---
 
-- 🌱 Actualmente estoy aprendiendo DevOps
-- 👫 Busco colaborar en una app de scouting para FRC 2024
-- 🤔 Busco ayuda con React Native y AI
-- 💬 Pregúntame sobre mi equipo Imperator 5887!!
-- ⚡ Dato curioso: ¡Me encanta hacer música!
-- 💻 Amo la programación orientada a objetos
+Hi! I'm a 19-year-old student at Tec de Monterrey Puebla, studying Robotics and Digital Systems Engineering (IRS), with the dream of changing the world through technology. I am passionate about FRC and enjoy working, helping, and teaching my team Imperator 5887 in programming and electrical topics. I'm always learning about technology and hope to make this dream come true!
+
+- 🌱 I am currently learning DevOps
+- 👫 I’m looking to collaborate on a scouting app for FRC 2024
+- 🤔 I’m seeking help with React Native and AI
+- 💬 Ask me about my team Imperator 5887!!
+- ⚡ Fun fact: I love making music!
+- 💻 I love object-oriented programming
 
 ---
 
