@@ -41,8 +41,7 @@ Hi! I'm a 19-year-old student at Tec de Monterrey Puebla, studying Robotics and 
 
 ---
 
-### Herramientas
-
+### My Tech Stack
 <div align="center">
 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"/></code>&nbsp;&nbsp;
