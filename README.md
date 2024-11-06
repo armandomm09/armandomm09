@@ -14,7 +14,7 @@
 Hi! I'm a 19-year-old student at Tec de Monterrey Puebla, studying Robotics and Digital Systems Engineering (IRS), with the dream of changing the world through technology. I am passionate about FRC and enjoy working, helping, and teaching my team Imperator 5887 in programming and electrical topics. I'm always learning about technology and hope to make this dream come true!
 
 - 🌱 I am currently learning DevOps
-- 👫 I’m looking to collaborate on a scouting app for FRC 2025
+- 👫 I’m looking to collaborate on a scouting system for FRC 2025
 - 🤔 I’m seeking help with React Native and AI
 - 💬 Ask me about my team Imperator 5887!!
 - ⚡ Fun fact: I love making music!
