@@ -7,22 +7,24 @@
 
 ---
 
-#### Yo...
-
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=It%E2%80%99s%20not%20about%20me,%20it%E2%80%99s%20not%20about%20us,%20it%E2%80%99s%20not%20even%20about%20us%E2%80%A6%20It%E2%80%99s%20about%20legacy,%20it%E2%80%99s%20about%20what%20we%20choose%20to%20leave%20behind&author=Tony%20Stark" alt="Readme Quotes">
+  </a>
+</div>
 ---
 
-Hi! I'm a 19-year-old student at Tec de Monterrey Puebla, studying Robotics and Digital Systems Engineering (IRS), with the dream of changing the world through technology. I am passionate about FRC and enjoy working, helping, and teaching my team Imperator 5887 in programming and electrical topics. I'm always learning about technology and hope to make this dream come true!
+Hi! I'm a 19-year-old student at Tec de Monterrey Puebla, studying Robotics and Digital Systems Engineering (IRS), with the dream of changing the world through technology. I am passionate about FRC and enjoy working, helping, and teaching everything about programming and electrical topics. I'm always learning about technology and hope to make this dream come true!
 
-- 🌱 I am currently learning DevOps
+- 🌱 I am currently learning CNN 
 - 👫 I’m looking to collaborate on a scouting system for FRC 2025
-- 🤔 I’m seeking help with React Native and AI
 - 💬 Ask me about my team Imperator 5887!!
-- ⚡ Fun fact: I love making music!
-- 💻 I love object-oriented programming
+- ⚡ Fun fact: I love making music and fishing!
+- 💻 I love Computer Vision
 
 ---
 
-### Redes Sociales
+### Social Media
 
 <div align="left">
 <a href="https://www.instagram.com/armando_mm09/" target="_blank"><img src="https://www.unipile.com/wp-content/uploads/2022/09/logo_instagram.png" height="40" width="auto"></a>
@@ -32,7 +34,7 @@ Hi! I'm a 19-year-old student at Tec de Monterrey Puebla, studying Robotics and 
 
 ---
 
-### Escucha mi música
+### Listen to my music
 
 <div align="left">
 <a href="https://open.spotify.com/artist/0MeoRldwVegwqxGbW57v55?si=raoOByCbSo28vlMHtnWvXQ" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" height="40" width="auto"></a>
