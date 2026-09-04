@@ -29,7 +29,7 @@ fine, what do you actually do.
 mostly convince computers to point cameras at things and make decisions about what they see. robots, mainly. sometimes rockets, on a good week.
 
 any formal training or did you just wing it.
-robotics degree, in progress, plus a fellowship at Meta where they let me near production systems. so a bit of both.
+robotics degree, in progress, plus a fellowship at Meta where they let me near production systems. so a bit of both. but youtube's my best friend ;)
 
 what's the three body thing at the top about.
 chaos, technically. i trained a neural net to learn how three bodies orbit each other without blowing up the simulation. it works more often than not.
